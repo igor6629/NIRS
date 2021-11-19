@@ -1,0 +1,13 @@
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Debug\NIRS.exe.config
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Debug\NIRS.exe
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Debug\NIRS.pdb
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.csproj.AssemblyReference.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS_.Form1.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS_.Form2.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS_.Form3.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS_.Properties.Resources.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.csproj.GenerateResource.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.exe
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Debug\NIRS.pdb

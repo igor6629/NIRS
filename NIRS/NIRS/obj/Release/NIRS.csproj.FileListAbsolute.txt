@@ -1,0 +1,12 @@
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Release\NIRS.exe.config
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Release\NIRS.exe
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\bin\Release\NIRS.pdb
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS_.Form1.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS_.Form2.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS_.Form3.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS_.Properties.Resources.resources
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS.csproj.GenerateResource.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS.exe
+C:\Users\Сергей Скоробогатов\Desktop\NIRS\NIRS\obj\Release\NIRS.pdb
